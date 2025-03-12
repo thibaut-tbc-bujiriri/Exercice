@@ -3,5 +3,5 @@ function(){
     window.print();
 };
 
-alert(" Bienvenu sur ma page de presentation...")
-console.warn("Attention !!!");
+// alert(" Bienvenu sur ma page de presentation...")
+// console.warn("Attention !!!");
